@@ -5,3 +5,8 @@ A collection of my awesome Java programs
 ## Lists
   - Linked list
     - [java-simple-single-linked-list](https://github.com/jNormaster/java-simple-single-linked-list)
+	
+## Algorithms
+  - Shortest path
+    - [..](#)
+	
